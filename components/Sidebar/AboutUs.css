@@ -1,0 +1,11 @@
+.about-btn{
+  padding: 6px 25px;
+  background-color: aquamarine;
+  line-height: inherit;
+  color: inherit;
+  border-radius: 11px;
+}
+.about {
+  text-align: center;
+}
+  

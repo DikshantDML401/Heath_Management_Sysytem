@@ -1,0 +1,13 @@
+.router-links ul {
+    opacity: 0.9;
+    display: flex;
+    list-style: none;
+    margin: 47px 44px;
+    color: #b6c2ce;
+    flex-direction: column;
+    font-weight: bold;
+    font-size: 0.95rem;
+}
+.router-links li {
+    padding: 0 0 21px 0;
+}
